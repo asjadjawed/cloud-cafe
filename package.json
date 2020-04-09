@@ -1,0 +1,8 @@
+{
+  "name": "cloud-cafe",
+  "version": "1.0.0",
+  "description": "A firebase project",
+  "main": "index.html",
+  "author": "Asjad Jawed Siddiqui Qadri <asjadjawed@gmail.com>",
+  "license": "MIT"
+}
